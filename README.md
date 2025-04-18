@@ -41,7 +41,8 @@ cd archivage-chirac
 
 # 🗃️ Archive Numérique - Jacques Chirac
 
-![Interface MongoDB dans Atlas]([assets/mongodb_view.png](https://github.com/yomna99/scrapping/blob/main/mongooo.png))
+![image]((https://github.com/user-attachments/assets/bbd4972b-dbf2-4348-a4fa-3f3e7f975e8d)
+)
 *Capture de l'interface MongoDB  montrant les données enregistrées*
 
 ## 📊 Structure des Données dans MongoDB
