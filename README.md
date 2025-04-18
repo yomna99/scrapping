@@ -21,7 +21,7 @@ Ce projet permet de collecter, structurer et archiver automatiquement les public
 ## ✨ Fonctionnalités
 - **Scraping intelligent** des plateformes en ligne
 - **Nettoyage automatique** des données
-- **Stockage sécurisé** dans MongoDB Atlas
+- **Stockage sécurisé** dans MongoDB 
 - **Recherche optimisée** grâce aux index
 - **Gestion des métadonnées** complète
 
@@ -29,7 +29,7 @@ Ce projet permet de collecter, structurer et archiver automatiquement les public
 | Catégorie       | Technologies                          |
 |----------------|--------------------------------------|
 | Scraping       | Python, Selenium, BeautifulSoup      |
-| Base de données| MongoDB Atlas                        |
+| Base de données| MongoDB                         |
 | Sécurité       | TLS, dotenv                          |
 | Infrastructure | Git, GitHub                          |
 
